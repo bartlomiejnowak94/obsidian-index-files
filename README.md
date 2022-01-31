@@ -8,28 +8,12 @@ Set the default folder for the JS scripts
 ![Script](Pics/Script.PNG)
 
 Copy index.js into this folder
-![Files](Pics/Files.png)
+![Files](Pics/Files.PNG)
 
+Then under templates create template for index file like
 
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```
+<% tp.user.index(tp) %>
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
