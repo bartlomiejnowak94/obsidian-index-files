@@ -24,3 +24,4 @@ Then one is able to use command from templater submenu
 
 To insert files and subfolders into current file
 
+![Example](Pics/E.PNG)
