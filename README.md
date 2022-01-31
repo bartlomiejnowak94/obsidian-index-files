@@ -1,18 +1,15 @@
-Script which generates index file. Working in Obsidian.md 
-
-![Obsidian](https://obsidian.md/)
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
+Script which generates index file. Working in [Obsidian.md](https://obsidian.md/)
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the following plugins: [Templater](https://github.com/SilentVoid13/Templater)
 
-```bash
-pip install foobar
-```
+Set the default folder for the JS scripts
+![Script](Pics/Script.png)
+
+Copy index.js into this folder
+![Files](Pics/Files.png)
+
 
 ## Usage
 
