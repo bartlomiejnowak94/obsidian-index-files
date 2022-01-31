@@ -8,7 +8,7 @@ Set the default folder for the JS scripts
 ![Script](Pics/Script.PNG)
 
 Copy index.js into this folder
-![Files](https://github.com/bartlomiejnowak94/obsidian-index-files/tree/main/Pics/Files.png)
+![Files](Pics/Files.png)
 
 
 ## Usage
