@@ -5,7 +5,7 @@ Script which generates index file. Working in [Obsidian.md](https://obsidian.md/
 Use the following plugins: [Templater](https://github.com/SilentVoid13/Templater)
 
 Set the default folder for the JS scripts
-![Script](https://github.com/bartlomiejnowak94/obsidian-index-files/tree/main/Pics/Script.png)
+![Script](Pics/Script.PNG)
 
 Copy index.js into this folder
 ![Files](https://github.com/bartlomiejnowak94/obsidian-index-files/tree/main/Pics/Files.png)
